@@ -1,0 +1,13 @@
+<?php
+
+function jobs_module_theme() {
+
+  return [
+    'jobs_page' => [
+      'variables' => [
+        'jobs' => [],
+      ],
+    ],
+  ];
+
+}

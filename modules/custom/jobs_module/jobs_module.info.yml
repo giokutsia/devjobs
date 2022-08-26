@@ -1,0 +1,9 @@
+name: jobs_module
+
+description: "Jobs"
+
+type: module
+
+package: Custom
+
+core_version_requirement: ^8 || ^9

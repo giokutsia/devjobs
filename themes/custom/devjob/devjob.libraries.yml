@@ -1,0 +1,8 @@
+global-style:
+  version: 1.x
+  css:
+    base:
+      dist/output.css: {}
+  js:
+      js/index.js: { }
+
